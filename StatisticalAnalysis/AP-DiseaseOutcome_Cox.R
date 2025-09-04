@@ -1,6 +1,4 @@
 ## Public, cleaned Cox analysis: Air pollution ~ Disease outcomes
-## - Removes AP index construction and any correlation plots
-## - No hard-coded paths; inputs/outputs are parameterized
 
 suppressPackageStartupMessages({
 	library(data.table)

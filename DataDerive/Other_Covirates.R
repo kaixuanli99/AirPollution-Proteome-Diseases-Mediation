@@ -1,5 +1,3 @@
-## Public, cleaned covariates derivation (no PRS). I/O is parameterized.
-## Source data: UK Biobank-like table with field IDs (prefixed as in original X<field>.<instance>.<array> columns).
 
 suppressPackageStartupMessages({
 	library(data.table)
