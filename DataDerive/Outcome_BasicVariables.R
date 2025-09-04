@@ -1,6 +1,4 @@
-## Public, cleaned, and modular version of disease derivation from UKB inpatient ICD-10 fields.
 ## Notes:
-## - No absolute paths. I/O is parameterized.
 ## - Debug prints, View calls, and environment-specific code removed.
 ## - Repeated ICD extraction logic is encapsulated in reusable functions.
 ## - External custom functions in the original (e.g., IQR_transfer, cox_IQR_lkx) are intentionally not included.

@@ -1,6 +1,4 @@
 ## Public, cleaned PWAS (Air pollution ~ proteome) using limma
-## - Removes unused data preparation and plotting
-## - No hard-coded paths; inputs/outputs are parameterized
 
 suppressPackageStartupMessages({
 	library(data.table)
