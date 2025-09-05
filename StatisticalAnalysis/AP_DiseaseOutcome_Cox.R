@@ -1,4 +1,3 @@
-## Public, cleaned Cox analysis: Air pollution ~ Disease outcomes
 
 suppressPackageStartupMessages({
 	library(data.table)

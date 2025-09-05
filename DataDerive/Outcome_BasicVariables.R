@@ -1,8 +1,3 @@
-## Notes:
-## - Debug prints, View calls, and environment-specific code removed.
-## - Repeated ICD extraction logic is encapsulated in reusable functions.
-## - External custom functions in the original (e.g., IQR_transfer, cox_IQR_lkx) are intentionally not included.
-## - This script focuses on constructing the disease table and optional summary.
 
 suppressPackageStartupMessages({
 	library(data.table)

@@ -1,4 +1,3 @@
-## Public, cleaned mediation analysis: Air pollution (X) -> Proteome mediator (M) -> Disease (Y)
 
 suppressPackageStartupMessages({
 	library(data.table)

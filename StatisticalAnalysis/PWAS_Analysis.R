@@ -1,4 +1,3 @@
-## Public, cleaned PWAS (Air pollution ~ proteome) using limma
 
 suppressPackageStartupMessages({
 	library(data.table)
