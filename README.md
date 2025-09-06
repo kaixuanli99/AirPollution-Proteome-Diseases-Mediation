@@ -18,11 +18,11 @@ We implement PWAS, Cox models for air pollution ~ disease outcomes and proteome 
   - `Other_Covirates.R`: additional covariates and preprocessing helpers.
 - `StatisticalAnalysis/`
   - `PWAS_Analysis.R`: PWAS workflow (limma); batch across exposures.
-  - `Proteome_DiseaseOutcome_Cox.R`: proteome→disease Cox (scalable public API).
-  - `AP_DiseaseOutcome_Cox.R`: air pollution→disease Cox (IQR scaling; start-date truncation).
-  - `MediationAnalysis.R`: single/batch mediation and overlap-based mediator filtering.
+  - `Proteome_DiseaseOutcome_Cox.R`: proteome-disease Cox.
+  - `AP_DiseaseOutcome_Cox.R`: air pollution-disease Cox.
+  - `MediationAnalysis.R`: mediation analysis.
   - `APPRS_LASSO.R`: build APPRS and compare three LASSO models.
-  - `APPRS_AP_Diseases_Interaction.R`: exposure×APPRS groups and Cox interaction.
+  - `APPRS_AP_Diseases_Interaction.R`: Exposure×APPRS groups and Cox interaction.
 - `Figures/`: scripts to main figures
 - Dependencies (R): `data.table`, `dplyr`, `tidyr`, `survival`, `limma`, `mediation`, `glmnet`, `caret`, `pROC`, `ggplot2`, `ggpubr`, `GGally`, `ggradar`, `ggrepel`, `scales`, `openxlsx`.
 
