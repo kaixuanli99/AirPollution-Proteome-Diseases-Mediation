@@ -31,6 +31,6 @@ We implement PWAS, Cox models for air pollution and proteomic predictors, causal
 ## Citation
 If you use this repository, please cite the associated manuscript once available. Provisional citation:
 ```
-[Authors]. Air pollution, proteomic profiles, and disease mediation: a reproducible analysis repository. Year. (Manuscript under review.)
+Li W, Li K, Zhou P, et al. Plasma proteome mediates the associations between air pollution exposure and disease risk. Year. Nat Commun. 
 ```
-Replace with the final bibliographic details upon publication.
+Manuscript under review
