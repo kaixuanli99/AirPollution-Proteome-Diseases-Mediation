@@ -5,7 +5,7 @@
 ## Description
 This repository provides a reproducible R codebase and figure scripts for a study on the air pollution–proteome–disease axis. It covers data derivation, proteome-wide association (PWAS), time-to-event modeling for both air pollution and proteome predictors, causal mediation analysis identifying protein mediators, construction of an air-pollution–mediated proteomic risk score (ApPRS), and predictive modeling via LASSO. The goal is to quantify the effects of ambient air pollution on disease risk and to dissect the proteomic pathways that mediate these effects.
 
-![methods schematic](./src/figure_methods_placeholder.png)
+![methods schematic](./src/workflow.png)
 
 ## Methods
 We implement PWAS, Cox models for air pollution and proteomic predictors, causal mediation to identify protein mediators, ApPRS construction and interaction analyses, and LASSO-based prediction in R.
