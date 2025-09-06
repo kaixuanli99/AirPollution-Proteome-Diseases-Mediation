@@ -17,7 +17,7 @@ suppressPackageStartupMessages({
 # ------------------------------
 
 reported_xlsx <- "./inputs/Reported AP-Disease HR in UKB.xlsx"   # sheet indices same as original
-unreported_csv <- "./inputs/50w-case-IQR-Unreported.csv"
+unreported_csv <- "./inputs/500k-case-IQR-Unreported.csv"
 apscore_csv <- "./inputs/500k-case-IQR-APScore.csv"
 
 out_reported_pdf <- "./Figure1_reported.pdf"
