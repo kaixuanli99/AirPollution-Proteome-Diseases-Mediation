@@ -13,6 +13,7 @@ We implement PWAS, Cox models for air pollution ~ disease outcomes and proteome 
 
 
 ## Assets
+All data used in this study were obtained from the [UK Biobank](https://www.ukbiobank.ac.uk/).
 - `DataDerive/`
   - `Outcome_BasicVariables.R`: derive outcomes and baseline variables.
   - `Other_Covirates.R`: additional covariates and preprocessing helpers.
