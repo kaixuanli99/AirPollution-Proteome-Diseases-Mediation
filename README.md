@@ -1,4 +1,4 @@
-## AirPollution-Proteome-Diseases-Mediation
+## Plasma proteome mediates the associations between air pollution exposure and disease risk
 
 ![graphical overview](./src/overall.png)
 
