@@ -25,7 +25,7 @@ All data used in this study were obtained from the [UK Biobank](https://www.ukbi
   - `APPRS_LASSO.R`: build APPRS and compare three LASSO models.
   - `APPRS_AP_Diseases_Interaction.R`: Exposure×APPRS groups and Cox interaction.
 - `Figures/`: scripts to main figures
-- Dependencies (R): `data.table`, `dplyr`, `tidyr`, `survival`, `limma`, `mediation`, `glmnet`, `caret`, `pROC`, `ggplot2`, `ggpubr`, `GGally`, `ggradar`, `ggrepel`, `scales`, `openxlsx`.
+- Dependencies (R 4.1): `data.table`, `dplyr`, `tidyr`, `survival`, `limma`, `mediation`, `glmnet`, `caret`, `pROC`, `ggplot2`, `ggpubr`, `GGally`, `ggradar`, `ggrepel`, `scales`, `openxlsx`.
 
 
 
